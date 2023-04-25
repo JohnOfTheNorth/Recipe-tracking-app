@@ -8,7 +8,7 @@ function RecipeList({ recipes, deleteRecipe }) {
         <td>{name}</td>
         <td>{cuisine}</td>
         <td>
-          <img src={photo} />
+          <img src={photo} alt="" />
         </td>
         <td className="content_td">
           {" "}
