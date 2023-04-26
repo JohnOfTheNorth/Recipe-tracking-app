@@ -8,7 +8,7 @@ const RecipeData = [
     name: "Tuna Poke with Mango",
     cuisine: "Hawaiian",
     photo:
-      "https://www.foodista.com/sites/default/files/styles/recype/public/tunapokebowlwithmango22.jpg",
+      "https://previews.123rf.com/images/hansgeel/hansgeel1611/hansgeel161100222/69218997-hawaiian-tuna-poke-with-mango-avocado-onion-and-sesame-seeds.jpg",
     ingredients:
       "1 package of sushi grade tuna. 1 cup cooked quinoa ½ avocado, sliced. ½ mango, cubed. 1 shredded carrot. 1 small sliced cucumber. poke sauce.",
     preparation:
@@ -18,7 +18,7 @@ const RecipeData = [
     name: "Guacamole",
     cuisine: "Mexican",
     photo:
-      "https://www.foodista.com/sites/default/files/styles/recype/public/017.jpg",
+      "https://media.istockphoto.com/id/529669952/photo/guacamole-dip.jpg?s=612x612&w=0&k=20&c=1XGvTwDaZgd-czRd5W0JyxV18U1_bs-HCeo6TWSE7K0=",
     ingredients:
       "3 ripe avocados. ¾ cup finely chopped Roma tomato. 2 serrano chiles very finely chopped (seeded and deveined). 3 heaping tablespoons of finely chopped onion. 3 tablespoons of minced cilantro. Salt to taste",
     preparation:
